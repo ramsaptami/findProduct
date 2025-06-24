@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Product Finder",
+  "description": "An application to find product listings on specified websites using the Gemini API with Google Search grounding. Users can manage a list of target websites and search for products based on a description.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
