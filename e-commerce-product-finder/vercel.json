@@ -1,0 +1,6 @@
+{
+  "framework": null,
+  "installCommand": "echo 'Skipping install command: No package.json'",
+  "buildCommand": "echo 'Skipping build command: Serving static files directly'",
+  "outputDirectory": "."
+}
